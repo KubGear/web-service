@@ -1,0 +1,8 @@
+com\kubgear\webservice\ObjectFactory.class
+com\kubgear\webservice\service\TimeRepository.class
+com\kubgear\webservice\service\Application.class
+com\kubgear\webservice\GetTimeRequest.class
+com\kubgear\webservice\package-info.class
+com\kubgear\webservice\GetTimeResponse.class
+com\kubgear\webservice\service\TimeEndpoint.class
+com\kubgear\webservice\service\WebServiceConfig.class
